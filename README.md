@@ -12,3 +12,5 @@ Project description
 =====================================
 
 *Add your project description here*
+- ZALO.zip is a zip file of server files written by Node.js
+- ChatZalo.zip is a zip file of client files 
